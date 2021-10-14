@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch main add new
+=======
+create text new
+>>>>>>> branch1
