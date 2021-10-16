@@ -1,1 +1,2 @@
-create new to branch week1
+
+create new to branch week1 & main
